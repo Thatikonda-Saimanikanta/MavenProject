@@ -1,0 +1,6 @@
+projectKey=demospring
+serverUrl=http://localhost:8081
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:8081/dashboard/index/demospring
+ceTaskId=AWUT8o-Kb4_b9215he29
+ceTaskUrl=http://localhost:8081/api/ce/task?id=AWUT8o-Kb4_b9215he29
